@@ -1,3 +1,0 @@
-#!/usr/bin/rnv ruby 
-require_relative '../lib/top_universities'
-TopUniversities::CLI.new.call
